@@ -1,2 +1,2 @@
-# page-revised
-Less chaotic landing page repo
+# Landing-Page
+Type-Along's official landing page for our MVP release. 
